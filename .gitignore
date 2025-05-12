@@ -12,7 +12,5 @@ __pycache__
 .vscode
 .ipynb_checkpoints
 soundfonts/
-output/
-input/
-trained_model/
+trained_model/*
 MuseScore/*
